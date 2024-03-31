@@ -1,4 +1,4 @@
-# Google Books Search App
+# Book Saver
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -9,6 +9,8 @@
 [![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://jwt.io/)
 
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to search for books via the Google Books API and save their favorite books for later viewing. The application uses Apollo Server for GraphQL APIs and Apollo Client for state management in the React application.
+
+Deployed application: [Book Saver](https://book-saver-mern.onrender.com)
 
 ## Features
 
@@ -73,3 +75,4 @@ The application is divided into two main parts:
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
