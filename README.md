@@ -1,4 +1,12 @@
 # Google Books Search App
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)](https://www.apollographql.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)](https://jwt.io/)
 
 This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to search for books via the Google Books API and save their favorite books for later viewing. The application uses Apollo Server for GraphQL APIs and Apollo Client for state management in the React application.
 
@@ -9,6 +17,7 @@ This is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application t
 - Save favorite books for later viewing.
 - View a list of all saved books.
 - Remove books from the saved list.
+
 
 ## Getting Started
 
